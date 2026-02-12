@@ -1,0 +1,35 @@
+{
+  "brand": { "name": "Hejran Travel" },
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "tours": "Tours",
+    "about": "About Us",
+    "contact": "Contact",
+    "search": "Search",
+    "callNow": "Call Now"
+  },
+  "hero": {
+    "welcome": "Welcome to Hejran Travel",
+    "subtitle": "Discover amazing destinations and create unforgettable memories with our expert travel services.",
+    "whyChoose": "Why Choose Hejran Travel?"
+  },
+  "features": {
+    "expertPlanning": "Expert Planning",
+    "expertDesc": "Professional travel consultants",
+    "globalDestinations": "Global Destinations",
+    "globalDesc": "Worldwide travel options",
+    "premiumService": "Premium Service",
+    "premiumDesc": "Luxury travel experiences"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "toggle": "Toggle theme"
+  },
+  "language": {
+    "english": "English",
+    "persian": "Persian",
+    "pashto": "Pashto"
+  }
+}
